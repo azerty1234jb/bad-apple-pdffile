@@ -1,0 +1,12 @@
+cache_thumbnails/
+input_pdfs/
+ori/
+venv/
+bad_apple.mp4
+cache_thumbnails.tar.xz
+final_with_audio.mp4
+mosaic_db.json
+mosaic_db.json.bak
+redacted_apple.mp4
+redacted_apple_2.mp4
+redacted_apple_old.mp4

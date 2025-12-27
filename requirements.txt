@@ -1,0 +1,10 @@
+joblib==1.5.3
+mss==10.1.0
+numpy==2.2.6
+opencv-python==4.12.0.88
+pdf2image==1.17.0
+pillow==12.0.0
+scikit-learn==1.8.0
+scipy==1.16.3
+threadpoolctl==3.6.0
+tqdm==4.67.1
