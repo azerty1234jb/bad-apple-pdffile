@@ -1,6 +1,6 @@
 This is the source code for two projects I made with Epstein files. The files are heavily
 redacted and the diverse blobs of redactions can be used to make a lot of things. I hope
-this repo raises awareness of the opression and tranny of the ruling class via internet
+this repo raises awareness of the opression and tyranny of the ruling class via internet
 culture.
 
 Uses KNN to match feature vectors of the each image (extracted from pages of pdf) and maps
